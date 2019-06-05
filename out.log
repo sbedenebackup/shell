@@ -1,0 +1,894 @@
+aa='1' not found.
+aa='1'
+aa='1'
+
+aa='1'
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: none
+
+
+
+
+ >>> next
+
+------------------------------
+>> last_kw: none
+
+
+
+
+ if [ $a == 1 ]
+if
+
+if
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: none
+
+
+
+
+ >>> new cond
+
+------------------------------
+>> last_kw: none
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ none if
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ENDDUMP^^^^^^^^^^^^^^
+
+[
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ >>> none
+
+------------------------------
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ 
+$a
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ >>> none
+
+------------------------------
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ 
+==
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ >>> none
+
+------------------------------
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ 
+1
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ >>> none
+
+------------------------------
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ 
+]
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ >>> none
+
+------------------------------
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ then
+then
+
+then
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ >>> none
+
+------------------------------
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ if then
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ENDDUMP^^^^^^^^^^^^^^
+if [ $a == 2 ]
+if
+
+if
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: then
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - 
+
+ >>> new cond
+
+------------------------------
+>> last_kw: then
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ then if
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ENDDUMP^^^^^^^^^^^^^^
+
+[
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ >>> none
+
+------------------------------
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ 
+$a
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ >>> none
+
+------------------------------
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ 
+==
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ >>> none
+
+------------------------------
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ 
+2
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ >>> none
+
+------------------------------
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ 
+]
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ >>> none
+
+------------------------------
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ then
+then
+
+then
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ >>> none
+
+------------------------------
+>> last_kw: if
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ if then
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ENDDUMP^^^^^^^^^^^^^^
+echo d
+echo
+
+echo
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: then
+
+>> curr_node: KW
+>> >> kw: if
+
+>> queue:
+>> >> if - if - 
+
+ >>> true
+
+------------------------------
+>> last_kw: then
+
+
+>> queue:
+>> >> if - if - 
+
+ elif [ $a == 3 ]
+elif
+
+elif
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: then
+
+
+>> queue:
+>> >> if - if - 
+
+ >>> second cond
+
+------------------------------
+>> last_kw: then
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ then elif
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ENDDUMP^^^^^^^^^^^^^^
+
+[
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ >>> none
+
+------------------------------
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ 
+$a
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ >>> none
+
+------------------------------
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ 
+==
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ >>> none
+
+------------------------------
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ 
+3
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ >>> none
+
+------------------------------
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ 
+]
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ >>> none
+
+------------------------------
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ then
+then
+
+then
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ >>> none
+
+------------------------------
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ elif then
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ENDDUMP^^^^^^^^^^^^^^
+echo q
+echo
+
+echo
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: then
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ >>> true
+
+------------------------------
+>> last_kw: then
+
+
+>> queue:
+>> >> if - elif - 
+
+ fi
+fi
+
+fi
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: then
+
+
+>> queue:
+>> >> if - elif - 
+
+ >>> ctrl end
+
+------------------------------
+>> last_kw: then
+
+>> curr_node: KW
+>> >> kw: if
+>> >> true:
+>> >> >> kw: if
+>> >> next:
+>> >> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ then fi
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ENDDUMP^^^^^^^^^^^^^^
+elif [ $a == 2 ]
+elif
+
+elif
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: fi
+
+>> curr_node: KW
+>> >> kw: if
+>> >> true:
+>> >> >> kw: if
+>> >> next:
+>> >> >> kw: elif
+
+>> queue:
+>> >> if - elif - 
+
+ >>> second cond
+
+------------------------------
+>> last_kw: fi
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ fi elif
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ENDDUMP^^^^^^^^^^^^^^
+
+[
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ >>> none
+
+------------------------------
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ 
+$a
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ >>> none
+
+------------------------------
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ 
+==
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ >>> none
+
+------------------------------
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ 
+2
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ >>> none
+
+------------------------------
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ 
+]
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ >>> none
+
+------------------------------
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ then
+then
+
+then
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ >>> none
+
+------------------------------
+>> last_kw: elif
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ elif then
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ENDDUMP^^^^^^^^^^^^^^
+echo a
+echo
+
+echo
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: then
+
+>> curr_node: KW
+>> >> kw: elif
+
+>> queue:
+>> >> elif - 
+
+ >>> true
+
+------------------------------
+>> last_kw: then
+
+
+>> queue:
+>> >> elif - 
+
+ else
+else
+
+else
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: then
+
+
+>> queue:
+>> >> elif - 
+
+ >>> second cond
+
+------------------------------
+>> last_kw: then
+
+>> curr_node: KW
+>> >> kw: else
+
+>> queue:
+>> >> else - 
+
+ then else
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ENDDUMP^^^^^^^^^^^^^^
+echo f
+echo
+
+echo
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: else
+
+>> curr_node: KW
+>> >> kw: else
+
+>> queue:
+>> >> else - 
+
+ >>> true
+
+------------------------------
+>> last_kw: else
+
+
+>> queue:
+>> >> else - 
+
+ fi
+fi
+
+fi
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvDUMP SCRIPTvvvvvvvvvvvvvvvvv
+>> last_kw: else
+
+
+>> queue:
+>> >> else - 
+
+ >>> ctrl end
+
+------------------------------
+>> last_kw: else
+
+
+
+
+ else fi
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ENDDUMP^^^^^^^^^^^^^^
+instr [aa='1']
+>> next >> kw [if]
+>> true >> kw [if]
+>> true >> instr [echo d]
+>> next >> kw [elif]
+>> true >> instr [echo q]
+
+
+
+
+>> next >> kw [elif]
+>> true >> instr [echo a]
+>> next >> kw [else]
+>> true >> instr [echo f]
+
+
+
+
+
+
